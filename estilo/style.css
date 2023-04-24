@@ -65,8 +65,7 @@ section {
 }
 
 section > p {
-    padding-bottom: 0em;
-    padding-right: 0px;
+    padding-bottom: 1em;
 }
 
 section.normal {
